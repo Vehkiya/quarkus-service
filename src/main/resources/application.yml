@@ -1,0 +1,9 @@
+greeting:
+  message: "hello"
+quarkus:
+  container-image:
+    build: true
+    group: vehki
+    name: subatomic-duck
+  application:
+    name: "Super fast Service"
